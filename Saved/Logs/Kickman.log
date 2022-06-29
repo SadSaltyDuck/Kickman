@@ -2646,3 +2646,54 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.29-12.33.37:165][848]AssetCheck: New page: Asset Save: KickmanMap
 [2022.06.29-12.33.37:166][848]LogContentValidation: Display: Validating World /Game/KickmanMap.KickmanMap
 [2022.06.29-12.57.40:716][286]LogDerivedDataCache: C:/Users/nime2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.171 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.29-13.43.30:982][498]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Games/Unreal Engine/UE projects/Kickman/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.06.29-13.43.30:982][498]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Games/Unreal Engine/UE projects/Kickman/Content/Developers/nime2/Collections/' because it could not be accessed. Aborting watch request...
+[2022.06.29-13.43.31:317][499]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Games/Unreal Engine/UE projects/Kickman/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.06.29-13.55.52:732][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.06.29-13.55.55:615][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KickmanMap" FILE="F:/Games/Unreal Engine/UE projects/Kickman/Content/KickmanMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.29-13.55.55:637][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.06.29-13.55.55:652][428]LogSavePackage: Moving output files for package: /Game/KickmanMap
+[2022.06.29-13.55.55:652][428]LogSavePackage: Moving 'F:/Games/Unreal Engine/UE projects/Kickman/Saved/KickmanMap6228D30548205E5ABB38DEBFD66E008A.tmp' to 'F:/Games/Unreal Engine/UE projects/Kickman/Content/KickmanMap.umap'
+[2022.06.29-13.55.55:661][428]LogFileHelpers: No new changes to save!
+[2022.06.29-13.55.55:674][428]AssetCheck: New page: Asset Save: KickmanMap
+[2022.06.29-13.55.55:674][428]LogContentValidation: Display: Validating World /Game/KickmanMap.KickmanMap
+[2022.06.29-13.56.03:628][924]LogSlate: Window 'Save Level As' being destroyed
+[2022.06.29-13.56.06:184][111]LogProjectBrowser: Looking for projects...
+[2022.06.29-13.56.06:184][111]LogProjectBrowser: Found Engine Installation "5.0"(C:/Unreal Engine/UE_5.0)
+[2022.06.29-13.56.06:185][111]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.0
+[2022.06.29-13.56.06:185][111]LogDesktopPlatform: Looking for directories to scan from : C:/Users/nime2/AppData/Local/UnrealEngine/5.0/Saved/Config/WindowsEditor
+[2022.06.29-13.56.06:190][111]LogDesktopPlatform: Searching for previously created project directories...
+[2022.06.29-13.56.06:190][111]LogDesktopPlatform: Found directory: "F:/Games/Unreal Engine/UE projects"
+[2022.06.29-13.56.06:190][111]LogDesktopPlatform: Found project "(ProjectName="F:/Games/Unreal Engine/UE projects/FirstProject/FirstProject.uproject",LastOpenTime=2022.06.28-16.18.51)" in recently opened files
+[2022.06.29-13.56.06:190][111]LogDesktopPlatform: Found project "(ProjectName="F:/Games/Unreal Engine/UE projects/UnrealLearningKit/UnrealLearningKit.uproject",LastOpenTime=2022.06.28-16.19.40)" in recently opened files
+[2022.06.29-13.56.06:190][111]LogDesktopPlatform: Found project "(ProjectName="F:/Games/Unreal Engine/UE projects/Kickman/Kickman.uproject",LastOpenTime=2022.06.29-10.04.43)" in recently opened files
+[2022.06.29-13.56.06:190][111]LogDesktopPlatform: Found project "F:/Games/Unreal Engine/UE projects/FirstProject/FirstProject.uproject" in previously created project directory
+[2022.06.29-13.56.06:190][111]LogDesktopPlatform: Found project "F:/Games/Unreal Engine/UE projects/Kickman/Kickman.uproject" in previously created project directory
+[2022.06.29-13.56.06:190][111]LogDesktopPlatform: Found project "F:/Games/Unreal Engine/UE projects/MyFirstProject/MyFirstProject.uproject" in previously created project directory
+[2022.06.29-13.56.06:190][111]LogDesktopPlatform: Found project "F:/Games/Unreal Engine/UE projects/UnrealLearningKit/UnrealLearningKit.uproject" in previously created project directory
+[2022.06.29-13.56.06:190][111]LogDesktopPlatform: Searcing for projects in .uprojectdirs
+[2022.06.29-13.56.06:191][111]LogProjectBrowser: Found Engine Installation "4.27"(F:/Games/Unreal Engine/UE_4.27)
+[2022.06.29-13.56.06:191][111]LogDesktopPlatform: Enumerating Projects From Engine Ver: 4.27
+[2022.06.29-13.56.06:191][111]LogDesktopPlatform: Looking for directories to scan from : C:/Users/nime2/AppData/Local/UnrealEngine/4.27/Saved/Config/WindowsEditor
+[2022.06.29-13.56.06:192][111]LogDesktopPlatform: C:/Users/nime2/AppData/Local/UnrealEngine/4.27/Saved/Config/WindowsEditor not found, looking for directories in C:/Users/nime2/AppData/Local/UnrealEngine/4.27/Saved/Config/Windows
+[2022.06.29-13.56.06:195][111]LogDesktopPlatform: Searching for previously created project directories...
+[2022.06.29-13.56.06:195][111]LogDesktopPlatform: Found directory: "F:/Games/Unreal Engine/UE projects"
+[2022.06.29-13.56.06:195][111]LogDesktopPlatform: Found project "F:/Games/Unreal Engine/UE projects/MyFirstProject/MyFirstProject.uproject" in recently opened files
+[2022.06.29-13.56.06:195][111]LogDesktopPlatform: Found project "F:/Games/Unreal Engine/UE projects/FirstProject/FirstProject.uproject" in previously created project directory
+[2022.06.29-13.56.06:196][111]LogDesktopPlatform: Found project "F:/Games/Unreal Engine/UE projects/Kickman/Kickman.uproject" in previously created project directory
+[2022.06.29-13.56.06:196][111]LogDesktopPlatform: Found project "F:/Games/Unreal Engine/UE projects/MyFirstProject/MyFirstProject.uproject" in previously created project directory
+[2022.06.29-13.56.06:196][111]LogDesktopPlatform: Found project "F:/Games/Unreal Engine/UE projects/UnrealLearningKit/UnrealLearningKit.uproject" in previously created project directory
+[2022.06.29-13.56.06:196][111]LogDesktopPlatform: Searcing for projects in .uprojectdirs
+[2022.06.29-13.56.06:196][111]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2022.06.29-13.56.19:614][110]LogSlate: Window 'Open Project' being destroyed
+[2022.06.29-13.56.51:212][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.06.29-13.56.52:703][213]LogSlate: Window 'Save Content' being destroyed
+[2022.06.29-13.56.52:745][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KickmanMap" FILE="F:/Games/Unreal Engine/UE projects/Kickman/Content/KickmanMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.29-13.56.52:767][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.06.29-13.56.52:776][213]LogSavePackage: Moving output files for package: /Game/KickmanMap
+[2022.06.29-13.56.52:776][213]LogSavePackage: Moving 'F:/Games/Unreal Engine/UE projects/Kickman/Saved/KickmanMapC1F855F445C5FA05CAEB2DA411D520EE.tmp' to 'F:/Games/Unreal Engine/UE projects/Kickman/Content/KickmanMap.umap'
+[2022.06.29-13.56.52:783][213]LogFileHelpers: No new changes to save!
+[2022.06.29-13.56.52:783][213]LogFileHelpers: Saving map 'KickmanMap' took 0.038
+[2022.06.29-13.56.52:796][213]AssetCheck: New page: Asset Save: KickmanMap
+[2022.06.29-13.56.52:796][213]LogContentValidation: Display: Validating World /Game/KickmanMap.KickmanMap
+[2022.06.29-13.57.40:981][121]LogDerivedDataCache: C:/Users/nime2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.266 and deleted 0 file(s) with total size 0 MiB.
