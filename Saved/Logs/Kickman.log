@@ -2875,3 +2875,6 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.03-09.09.52:738][572]LogHttp: Warning: 000005BD0849D700: libcurl info message cache 7 (Closing connection 0)
 [2022.08.03-09.09.52:738][572]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B33B4E65F-43B6-48C2-3E96-858FC95942E9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.2-20280985%2B%2B%2BUE5%2BRelease-5.0&UserID=b331c4354ad470cb6f267ea9b73e9c8e%7C32a02f4bc3fc4a8d8e1054d6749f7df3%7C3f164eb9-4c4c-4a89-b0c8-bd02f150c942&AppEnvironment=datacollector-binary&UploadType=eteventstream
 [2022.08.03-09.13.47:364][ 42]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.03-09.14.32:004][117]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.08.03-09.14.32:004][117]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.08.03-09.14.32:829][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
